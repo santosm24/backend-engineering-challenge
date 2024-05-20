@@ -10,8 +10,6 @@ python -m venv unbabel
 
 # Activate the virtual environment
 # On Windows
-source unbabel\Scripts\activate
-# On macOS/Linux
 source unbabel/bin/activate
 ```
 
